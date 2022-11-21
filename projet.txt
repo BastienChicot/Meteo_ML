@@ -1,0 +1,18 @@
+appli ML Météo
+
+--> récupérer des données météorologiques d'un lieu sur beaucoup de prériodes différentes
+
+		Passer par des API 
+		Récolter des data pour tester et faire des graphs de différences par rapport aux normales saisonnières.
+		... créer un modèle de ML permettant de projeter l'évolution des température et des autres données dispo
+
+--> Images sattelite de ce lieu dans le temps
+
+	Faire des timelapse (en lien avec les données météo)
+
+Comparer les écarts de températures avec la normale et de voir l'évolution de la flore localement
+
+--> Créer un réseau de neurones sur les images pour évaluer/représenter l'évolution future (modification d'images).
+
+
+ ==> Intégrer dans une appli (streamlit ou autre)
