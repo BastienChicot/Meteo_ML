@@ -16,3 +16,7 @@ Comparer les écarts de températures avec la normale et de voir l'évolution de
 
 
  ==> Intégrer dans une appli (streamlit ou autre)
+
+
+TO DO :
+Chercher des données sur les normales saisonnières et des données démographique france pour jointure avec bases météo (se promener sur l'insee == données territoire etc...)
